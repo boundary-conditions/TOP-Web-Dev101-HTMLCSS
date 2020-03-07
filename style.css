@@ -1,0 +1,18 @@
+.img {
+    margin: auto;
+    text-align: center;
+}
+
+.search1 {
+    border-radius: 24px;
+    border-width: 1px;
+    border-style: solid;
+    width: 500px;
+    height: 40px;
+    border-color: #dfe1ef;
+    margin: auto;
+}
+
+.submitdiv {
+    padding: 15px;
+}
