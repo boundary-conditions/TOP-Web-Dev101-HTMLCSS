@@ -1,0 +1,1 @@
+This is the HTML/CSS project from The Odin Projects Web Development 101. In it I will replicate the google homepage using Developer Tools.
