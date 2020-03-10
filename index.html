@@ -22,11 +22,16 @@
         </div>
         <div id="logobox">
             <div class="img"><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Logo"></div>
-            <div class="searchbox"><div class="searchbar"></div></div>
-            <div class="submitdiv">
-                <input type="submit" value="search" aria-label="Google Search">
-                <input type="submit" value="lucky" aria-label="I'm Feeling Lucky">
+            <form>
+            <div class="searchbox">                           
+                <div class="searchbar">
+                <label for="gsearch"></label>
+                <input class="textin" type="text" id="gsearch" name="gsearch"></div>
             </div>
+            <div class="submitdiv">
+                <input id="button" type="submit" value="Google Search" aria-label="Google Search">
+                <input id="button" type="submit" value="I'm Feeling Lucky" aria-label="I'm Feeling Lucky">
+                </div></form>
         </div>
     </div>
     
